@@ -19,6 +19,11 @@ Locking your doors and closing your windows while you sleep, is not fear. Decide
 ## Browser
 - [Vivaldi](https://vivaldi.com)
 
+## Search Engine
+- [DuckduckGo](https://duckduckgo.com)
+- [Startpage](https://startpage.com)
+- [Qwant](https://www.qwant.com)
+
 ## Maps
 - [Here](https://wego.here.com)
 
